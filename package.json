@@ -1,0 +1,16 @@
+{
+    "name": "impress-app",
+    "version": "0.0.1",
+    "repository" : "https://www.github.com/boskiv/impress",
+    "description" : "Impress template app",
+    "dependencies": {
+        "impress":"*",
+        "nodemailer":"*",
+        "nodemon" : "*",
+        "websocket": "*",
+        "mongodb": "*"
+    },
+    "engines": {
+        "node" : "*"
+    }
+}
